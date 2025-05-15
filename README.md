@@ -3,11 +3,10 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pouya-fakhri" alt="pouya-fakhri" /></a> </p>
 
-- 🌱 I’m currently learning **java script**
+- 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **pouya.May4@gmail.com**
 
-- ⚡ Fun fact **I like money**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
